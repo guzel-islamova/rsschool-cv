@@ -1,14 +1,22 @@
-#Guzel Islamova
+# Guzel Islamova
 
-##Contacts
+## Contacts
+
+
 **Phone** +7 965 595 30 86
 
 **E-mail** guzel.islamova@gmail.com
 
-##Summary
+## Summary
+
+
 Deputy director with over six years of experience. Proven success in budget planning and accounting. Skilled,observant, 
 good executive.
-##Experience
+
+
+## Experience
+
+
 Deputy Director at the State Concert Hall
 
 Jan 2014 — Dec 2020
@@ -18,7 +26,11 @@ Jan 2014 — Dec 2020
 - preparation of documents and references at the request of third-party organizations
 - replacement of the head of the organization
 - control over the execution of orders and instructions of the head of the organization
-##Skills
+
+
+## Skills
+
+
 *HTML
 
 *CSS
@@ -28,7 +40,9 @@ Jan 2014 — Dec 2020
 *React JS, Redux
 
 *Figma
-##Code Example
+
+## Code Example
+
 >function highAndLow(numbers) {
 > 
 >let nums = numbers.split(' ');
@@ -37,11 +51,17 @@ Jan 2014 — Dec 2020
 >
 >}
 
-##Education
+## Education
+
+
 **2008** Ankara University (Faculty of political sciencies, Bachelor's degree)
 
 **2021** Innopolis University (Basics of Frontend-development)
-##Languages
+
+
+## Languages
+
+
 Russian, Tatar - native speaker
 
 English - [C2](https://www.efset.org/cert/eQt18t)
