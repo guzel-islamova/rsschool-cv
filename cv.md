@@ -1,4 +1,4 @@
-#**Guzel Islamova**
+#Guzel Islamova
 
 ##Contacts
 **Phone** +7 965 595 30 86
@@ -29,13 +29,23 @@ Jan 2014 — Dec 2020
 
 *Figma
 ##Code Example
-*here should be code*
+>function highAndLow(numbers) {
+> 
+>let nums = numbers.split(' ');
+> 
+>return `${Math.max(...nums)} ${Math.min(...nums)}`;
+>
+>}
+
 ##Education
 **2008** Ankara University (Faculty of political sciencies, Bachelor's degree)
 
 **2021** Innopolis University (Basics of Frontend-development)
 ##Languages
-Russian - native speaker
-English - [C1](https://www.efset.org/cert/eQt18t)
+Russian, Tatar - native speaker
 
-German - A1 (currently attending language course)
+English - [C2](https://www.efset.org/cert/eQt18t)
+
+Turkish - C2
+
+German - A2 (currently attending language course)
