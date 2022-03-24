@@ -1,1 +1,1 @@
-https://sarmag4in.github.io/rsschool-cv/cv
+https://sarmag4in.github.io/rsschool-cv/
